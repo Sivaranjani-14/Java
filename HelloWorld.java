@@ -1,4 +1,4 @@
-public class hello {
+public class HelloWorld{
     
     // The main method is the entry point where the program starts execution
     public static void main(String[] args) {
